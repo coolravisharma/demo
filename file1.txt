@@ -1,1 +1,4 @@
 to check diff on unstaged/stages changes
+
+changes done on txtq
+
